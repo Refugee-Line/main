@@ -1,2 +1,2 @@
-# main
-Main files for website
+# File Manager
+Stores the main website files
